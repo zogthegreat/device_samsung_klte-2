@@ -1,9 +1,9 @@
 [
   {
-    "remote": "github",
-    "repository": "fessmm/android_device_samsung_klte-common",
+    "remote":      "github",
+    "repository":  "fessmm/android_device_samsung_klte-common",
     "target_path": "device/samsung/klte-common",
-    "brunch": oreo
+    "branch":      "oreo"
   },
   {
     "remote":      "github",
